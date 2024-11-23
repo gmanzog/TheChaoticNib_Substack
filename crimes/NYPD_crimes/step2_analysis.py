@@ -4,7 +4,6 @@ https://data.cityofnewyork.us/Public-Safety/NYC-crime/qb7u-rbmr/about_data
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from roughviz.charts import Pie
 
 folder = 'C:/Users/gmger/OneDrive/Desktop/'
 
